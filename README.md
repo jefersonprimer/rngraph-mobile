@@ -1,4 +1,4 @@
-# React Native Calendar Mobile
+# React Native svg Graph Mobile
 
 <div style="display: flex; justify-content: space-between; margin-right: 6px; margin-top: 20px;">
   <img src="./assets/image1.png" alt="iPhone Home Preview" style="width: 270px; height: 550px;">
